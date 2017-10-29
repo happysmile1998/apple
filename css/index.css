@@ -1,0 +1,291 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-size: 17px;
+    line-height: 1.47059;
+    color: #333;
+    font-weight: 400;
+}
+#top
+{
+    background: #444;
+    width:100%;
+    height: 40px;
+}
+#one
+{
+    color: #a8a8aa;
+    font-size: 12px;
+    text-align: right;
+    width:auto;
+    height: 40px;
+    line-height: 40px;
+    padding:0 25px;
+    position: relative;
+    left: 0;
+    max-width: 1150px;
+}
+#first
+{
+    padding:0 22px;
+    height: 44px;
+    margin:0 auto;
+    font-size: 1em;
+    width: 100%;
+    color:#fff;
+    clear: both;
+    background:rgba(0,0,0,0.8);
+    vertical-align: middle;
+}
+ul
+{
+    list-style: none;
+    clear: both;
+}
+#dan
+{
+    margin:0 -10px;
+    width:auto;
+    height: 44px;
+}
+.ak
+{
+    height: 44px;
+    line-height: 44px;
+    float: left;
+    width: 9.0909%;
+    font-size: 14px;
+}
+h2
+{
+    color: #111;
+    font-size: 44px;
+    line-height: 1.09091;
+    font-weight: 600;
+    text-align: center;
+}
+.lcr
+{
+    color: #111;
+    text-align: center;
+    margin-top: 3px;
+    font-size: 22px;
+    line-height: 1.18182;
+    padding-left: 0.4em;
+    font-weight: 400;
+}
+#app
+{
+    background-color: #f9f0eb;
+}
+.boss
+{
+    width: 100%;
+    text-align: center;
+    padding-top: 70px;
+    box-sizing: border-box; 
+}
+.san
+{
+    border-top: 12px solid #fff;
+    background-color: #fafafa;
+}
+#shen
+{
+    border-bottom: 6px solid #fff;
+}
+#cool
+{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.two
+{
+    width: 50%;
+    float: left;
+    height: 508px;
+    box-sizing: border-box;
+    border: 6px solid #fff;
+    background-color: #fafafa;
+}
+.h
+{
+    text-align: center;
+}
+.picture
+{
+    text-align: center; 
+   padding-top: 70px;
+    height: 100%;
+    width:100%;
+}
+h4
+{
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 1.1;
+    margin-top: 1.08em;
+    color: #111;
+}
+h5
+{
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 1.19048;
+    margin-top: 0.2em;
+}
+#wen
+{
+    padding-top: 0;
+    padding-bottom: 70px;
+    width:100%;
+}
+.empty1
+{
+    border-top:6px solid #fff;
+    clear: both;
+    background-color: #f2f2f2;
+    height:40px;
+}
+.three
+{
+    width: 20%;
+    float: left;
+
+}
+.zz
+{
+    margin-bottom: 6px;
+    font-size: 11px;
+    color:#555;
+}
+.sb
+{
+    font-size: 11px;
+    line-height: 1.27273;
+    font-weight: 600;
+    color:inherit;
+    margin-bottom: 6px;
+    display: block;
+}
+#bigboss
+{
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 1.45455;
+    background-color: #f2f2f2;
+    min-width: 320px;
+}
+#bottom
+{
+    text-align: left;
+    box-sizing: content-box;
+    padding:0 22px;
+    margin:0 auto;
+    max-width: 980px;
+    overflow: hidden;
+}
+#ab
+{
+    overflow: hidden;
+}
+.LCR
+{
+    margin-right: 20px;
+}
+#bd
+{
+    background-color: #f2f2f2;
+    color: #888;
+    padding-top:34px;
+    padding:17px 0 21px;
+    width:980px;
+    margin:0 auto;
+}
+.footer
+{
+    margin-bottom: 7px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #d6d6d6;
+    font-size: 5px;
+}
+#xcr
+{
+    overflow: hidden;
+    font-size:5px;
+}
+#China
+{
+    margin-top: 3px;
+    float: right;
+    box-sizing: content-box;
+}
+#naive
+{
+    margin-right: 30px;
+    margin-top: 3px;
+    float: left;
+}
+#fool
+{
+    position: relative;
+    top: -3px;
+    margin-right: 30px;
+    margin-top: 3px;
+    float: left;
+}
+.ac
+{
+    border-right: 1px solid #d6d6d6;
+    margin-right: 10px;
+    padding-right: 12px;
+    color: #555;
+}
+.empty1
+{
+    overflow: hidden;
+}
+#last
+{
+    margin-bottom: 20px;
+    color: #999;
+    font-size:11px;
+}
+a
+{
+    color:#0070c9;
+    text-decoration: none;
+}
+#zhong
+{
+    color:#555;
+}
+#BD
+{
+    background-color: #f2f2f2;
+}
+#jing
+{
+    color: #999;
+    font-size:11px;
+}
+.ac:hover
+{
+    text-decoration: underline;
+}
+.zz:hover
+{
+    text-decoration: underline;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+.ak:hover
+{
+    color:#999;
+}
